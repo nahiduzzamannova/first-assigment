@@ -200,4 +200,30 @@ margin-bottom: 44px;
     margin-bottom: 24px;
     
 }
+.vault{
+ background-color: #001931;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 120px;
+    background-color: #001931;
+
+}
+.footer-text h6{
+        color: #F7F6F2;
+        margin-bottom: 16px;
+}
+.footer-text a{
+    color: #F7F6F2;
+    margin-top: 16px;
+    gap: 16px;
+}
+.copyright{
+    text-align: center;
+    margin-bottom: 50px;
+    color: #F7F6F2;
+    padding: 80px;
+   
+}
 
