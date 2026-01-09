@@ -46,7 +46,7 @@
     text-decoration: none;
 }
 .banner{
-    background-image: url(/assets/hero-bg.png);
+    background-image: url(assets/hero-bg.png);
     background-repeat: no-repeat;
     background-position: bottom;
    height: 674px;
