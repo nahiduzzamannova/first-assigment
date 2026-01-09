@@ -133,3 +133,52 @@ margin-bottom: 44px;
     color: #627382;
     
 }
+.banner-2{
+    display: flex;
+    gap: 60px;
+}
+.text-banner2 {
+    margin-top: 102px;
+
+}
+.text-banner2 p{
+    margin-bottom: 36px;
+    color: #469165;
+    font-weight: bold;
+}
+.text{
+    margin-top: 138px;
+    margin-bottom: 102px;
+}
+.text p{
+    color: #469165;
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+.text h1{
+    margin-bottom: 16px;
+    font-size: 4em;
+}
+.text .p-graph{
+
+    color: #627382;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.icon-pera{
+    display: flex;
+    gap: 6px;
+  
+   
+    
+
+}
+.icon-pera p{
+   color: #001931;
+
+}
+.icon-pera img{
+    margin: 20px 20px;
+    align-content: space-around;
+    
+}
